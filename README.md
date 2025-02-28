@@ -15,6 +15,8 @@ This directory contains a test suite of malicious PostScript files.
   - **Windows:** Current user's temporary files  
   - **Linux:** `/tmp`
 
+![list.eps](https://raw.githubusercontent.com/Icare1337/GhostScript/refs/heads/main/list_folder.jpg)
+
 - **`write_files.ps`**  
   Can be used to write a file in the permanent directory.  
   - **Windows:** Current user's temporary files  
