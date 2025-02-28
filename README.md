@@ -23,6 +23,8 @@ This directory contains a test suite of malicious PostScript files.
   - **Linux:** `/tmp`  
   **Note:** The file you want to copy must be encoded in Base64.
 
+![write.eps](https://raw.githubusercontent.com/Icare1337/GhostScript/refs/heads/main/write.jpg)
+
 - **`read_files.ps`**  
   Can be used to read a file from the permanent directory.  
   - **Windows:** Current user's temporary files  
